@@ -2,7 +2,6 @@
 
 The Green-Transit Fleet Manager is a C# console application designed to manage and calculate the range of different types of vehicles in a fleet. It demonstrates the use of Object-Oriented Programming (OOP) principles such as inheritance, polymorphism, and encapsulation, and includes robust error handling for invalid inputs or low energy levels.
 
-
 Scenario:
 Scenario A: The "Green-Transit" Fleet Manager 
 
