@@ -13,7 +13,9 @@ Logic: Implement a CalculateRange() method. The Bus calculates based on battery,
 
 Exception: Throw an error if the energy level is below 5% during a range check.
 
-Base class Vehicle with properties VehicleID and ModelName.
+Base class 
+
+Vehicle with properties VehicleID and ModelName.
 
 Subclasses:
 
