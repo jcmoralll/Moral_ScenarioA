@@ -1,0 +1,7 @@
+C:\Users\Justine Moral\source\repos\Moral_ScenarioLabel\bin\Debug\Moral_ScenarioLabel.exe.config
+C:\Users\Justine Moral\source\repos\Moral_ScenarioLabel\bin\Debug\Moral_ScenarioLabel.exe
+C:\Users\Justine Moral\source\repos\Moral_ScenarioLabel\bin\Debug\Moral_ScenarioLabel.pdb
+C:\Users\Justine Moral\source\repos\Moral_ScenarioLabel\obj\Debug\Moral_ScenarioLabel.csproj.AssemblyReference.cache
+C:\Users\Justine Moral\source\repos\Moral_ScenarioLabel\obj\Debug\Moral_ScenarioLabel.csproj.CoreCompileInputs.cache
+C:\Users\Justine Moral\source\repos\Moral_ScenarioLabel\obj\Debug\Moral_ScenarioLabel.exe
+C:\Users\Justine Moral\source\repos\Moral_ScenarioLabel\obj\Debug\Moral_ScenarioLabel.pdb
